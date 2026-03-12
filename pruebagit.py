@@ -1,8 +1,8 @@
+def suma(valor1 , valor2):
+  suma = valor1 + valor2
+  return suma
 
-valor1= 6
-valor2= 7
 
-suma = valor1 + valor2
+suma(valor1, valor2)
 
-print(suma)
 
